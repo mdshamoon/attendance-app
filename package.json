@@ -30,6 +30,6 @@
         "interactjs": "^1.9.10",
         "quasar": "^1.10.0",
         "tailwindcss": "^1.4.0",
-        "three": "^0.115.0"
+        "three": "^0.125.0"
     }
 }
